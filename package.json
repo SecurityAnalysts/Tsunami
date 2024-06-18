@@ -21,7 +21,7 @@
     "author": "Fog Network",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.19.2",
         "corrosion": "^1.0.0",
         "alloyproxy": "^1.1.0",
         "sys-proxy": "^1.0.3",
